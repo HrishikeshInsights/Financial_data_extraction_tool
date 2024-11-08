@@ -77,14 +77,6 @@ This makes it easy to transform textual data into structured information for qui
 - **Data Export Options**: Support export to CSV or Excel formats for seamless integration into reports.
 - **Performance Enhancements**: Improve processing speed for larger articles and multiple inputs.
 
-## License
-
-This project is open-source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue for ideas or suggestions.
-
 ## Contact
 
 If you have any questions or want to contribute, please reach out to [Hrishikesh REDDY](Hrishikeshreddy.in@gmail,com).
